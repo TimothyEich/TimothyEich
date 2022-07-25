@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimothyEich
-- 👀 I’m interested in Sports, Gaming and Coding
-- 🌱 I’m currently learning Deployment and Websecurity
+- 👀 I’m interested in Coding, Sports and making Video Games.
+- 🌱 I’m currently learning Firebase and GitHub
 - 📫 Feel free to reach me @Timothy.Eichenlaub@gmail.com
 
 <!---
