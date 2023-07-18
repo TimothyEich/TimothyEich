@@ -1,19 +1,11 @@
-# Hey there! 👋
+# Hey there! 👋 
 
 I'm Timothy Eichenlaub, a passionate and dedicated Software Developer with a love for exploring new technologies and creating amazing things. I enjoy sharing my knowledge and previously served as a mentor, helping students learn Full Stack Software Development. My toolbox includes HTML, CSS, JavaScript, React, SQL, NoSQL, and more!
 
-## Skills 🔓
+## Current Projects
+I'm currently working on a portfolio utilizing next.js and typescript with Tailwind CSS while also starting to learn Swift for IOS Development. 
 
-- HTML
-- CSS
-- JavaScript
-- Git
-- React.js
-- Node.js
-- jQuery
-- Scrum
-- Responsive Web Design
-- Bootstrap
+
 
 ## Interests Beyond Coding 💡
 
@@ -37,3 +29,6 @@ Feel free to reach out to me through any of the following channels:
 - 📧 Email: Timothy.Eichenlaub@gmail.com
 - 📞 Phone: 405-308-7613
 - 💼 LinkedIn: [timothy-eichenlaub](https://www.linkedin.com/in/timothy-eichenlaub-a4a686228/)
+
+![TE (4)](https://github.com/TimothyEich/TimothyEich/assets/94193381/f17f85c2-7e2f-4984-836e-172082c4fb78)
+
