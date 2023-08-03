@@ -5,7 +5,7 @@ I'm Timothy Eichenlaub, a passionate and dedicated Software Developer with a lov
 ## Current Projects
 I'm currently working on a portfolio utilizing next.js and typescript with Tailwind CSS while also starting to learn Swift for IOS Development. 
 
-## Check out [My Portfolio!](timeich.com)
+## Check out [My Portfolio!](https://timeich.com/)
 
 ## Interests Beyond Coding 💡
 
