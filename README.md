@@ -28,7 +28,7 @@ Feel free to reach out to me through any of the following channels:
 
 - 📧 Email: Timothy.Eichenlaub@gmail.com
 - 📞 Phone: 405-308-7613
-- 💼 LinkedIn: [timothy-eichenlaub](https://www.linkedin.com/in/timothy-eichenlaub-a4a686228/)
+- 💼 LinkedIn: [timothy-eichenlaub](https://www.linkedin.com/in/timothy-eichenlaub-aaa296288/)
 - ☕ [Buy me a coffee to keep me going!](https://www.buymeacoffee.com/TimEich)
 
 ![TE (4)](https://github.com/TimothyEich/TimothyEich/assets/94193381/f17f85c2-7e2f-4984-836e-172082c4fb78)
