@@ -3,7 +3,7 @@
 I'm Timothy Eichenlaub, a passionate and dedicated Software Developer with a love for exploring new technologies and creating amazing things. I enjoy sharing my knowledge and previously served as a mentor, helping students learn Full Stack Software Development. My toolbox includes HTML, CSS, JavaScript, React, SQL, NoSQL, and more!
 
 ## Current Projects
-I'm currently working on a portfolio utilizing next.js and typescript with Tailwind CSS while also starting to learn Swift for IOS Development. 
+I'm currently working on a new website for a client using Next.js and Tailwind CSS.
 
 ## Check out [My Portfolio!](https://timeich.com/)
 
